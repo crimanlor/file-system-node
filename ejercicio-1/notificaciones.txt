@@ -1,5 +1,4 @@
-El/la contribuyente María García tiene notificaciones pendientes. Se enviará un email a maria.garcia@ejemplo.com
-El/la contribuyente Pedro López tiene notificaciones pendientes. Se enviará un email a pedro.lopez@ejemplo.com
-El/la contribuyente Pedro López tiene notificaciones pendientes. Se enviará un email a pedro.lopez@ejemplo.com
-El/la contribuyente Pedro López tiene notificaciones pendientes. Se enviará un email a pedro.lopez@ejemplo.com
-
+El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
+El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
+El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
+El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
