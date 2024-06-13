@@ -1,0 +1,20 @@
+
+Siguiente fichero analizado: files/2abril_participants_94849208356.csv
+
+﻿aaron sanchez ha venido a clase durante 276 minutos.
+
+Siguiente fichero analizado: files/2mayo_participants_94849208356.csv
+
+﻿Óscar Miras ha venido a clase durante 254 minutos.
+
+Siguiente fichero analizado: files/3abril_participants_94849208356.csv
+
+﻿Nicolas Quiroga Mateus ha venido a clase durante 93 minutos.
+
+Siguiente fichero analizado: files/informe.txt
+
+ ha venido a clase durante undefined minutos.
+
+Siguiente fichero analizado: files/3junio_participants_94849208356.csv
+
+﻿aaron sanchez ha venido a clase durante 245 minutos.
