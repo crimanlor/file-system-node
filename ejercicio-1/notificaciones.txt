@@ -2,3 +2,4 @@ El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un 
 El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
 El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
 El/La contribuyente Juan Pérez tiene notificaciones pendientes. Se enviará un email a juan.perez@ejemplo.com
+El/La contribuyente Pedro López se enviará un email a pedro.lopez@ejemplo.com
